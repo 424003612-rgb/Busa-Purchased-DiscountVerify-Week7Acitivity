@@ -1,0 +1,4 @@
+Customer name: Rene
+Total Purchased: 258.68
+Is the total purchased over 200? true,
+ then customer is discounted
